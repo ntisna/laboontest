@@ -1,0 +1,266 @@
+{
+  "home": {
+    "title": "home",
+    "description": "Platform pemesanan kapal untuk tujuan wisata bahari kamu berikutnya.\n\n Miliki Petualangan Berlayar Dengan Kapal Pilihan.\n\n Mau mulai #LupainDaratan versi on the boat?",
+    "cta": {
+      "label": "Whatsapp Kami!",
+      "url": "https://wa.me/6285160668800"
+    },
+    "metrics": [
+      {
+        "label": "kunjungan",
+        "value": 120500
+      },
+      {
+        "label": "pelanggan",
+        "value": 10500
+      },
+      {
+        "label": "kapal",
+        "value": 500
+      }
+    ]
+  },
+  "about": {
+    "upper":{
+      "cards":
+        [
+          {
+            "label": "Kapal Phinisi",
+            "color": "",
+            "image": "kapal1.png",
+            "desc": ""
+          },
+          {
+            "label": "Speed Boat",
+            "color": "",
+            "image": "kapal2.png",
+            "desc": ""
+          },
+          {
+            "label": "Yacht",
+            "color": "",
+            "image": "kapal3.png",
+            "desc": ""
+          }
+        ],
+      "description": {
+        "label": "Kapal",
+        "color": "primary-1",
+        "image": "",
+        "desc": "Awali perjalanan wisata bahari dengan banyak pilihan kapal sebelum berlayar. Laboon menyediakan tipe kapal yang berbeda sesuai dengan destinasi liburan. Yuk kenali kapal-kapal di Laboon dengan keunikan masing-masing!"
+      }
+    },
+    "lower":{
+      "cards":
+        [
+          {
+            "label": "Kepulauan Seribu",
+            "color": "",
+            "image": "pulau_seribu.png",
+            "desc": ""
+          },
+          {
+            "label": "Labuan Bajo",
+            "color": "",
+            "image": "bajo.png",
+            "desc": ""
+          },
+          {
+            "label": "Makassar",
+            "color": "",
+            "image": "makassar.png",
+            "desc": ""
+          }
+        ],
+      "description": {
+        "label": "Trip",
+        "color": "secondary-1",
+        "image": "",
+        "desc": "Beragam tipe perjalanan dan tempat wisata kami hadirkan spesial untuk kamu mulai dari Kepulauan Seribu, Labuan Bajo dan Makasar. Para pemilik kapal di Laboon siap mengantarkan kamu ke destinasi wisata bahari Nusantara!"
+      }
+    }
+  },
+  "feature": {
+    "title": "Mari Buat Pengalaman Berlayar Lebih Berkesan",
+    "description": "",
+    "cards": [
+      {
+        "label": "Trip",
+        "color": "primary-1",
+        "desc": "Kamu seorang backpacker atau penikmat liburan cantik? Tenang, Di Laboon tersedia banyak pilihan trip dengan ciri khas masing-masing!",
+        "url": "https://wa.me/6285160668800",
+        "button": "Coba"
+      },
+      {
+        "label": "Rental",
+        "color": "primary-1",
+        "desc": "Sailing Soon",
+        "url": "https://wa.me/6285160668800",
+        "button": "",
+        "action": "Sailing Soon"
+      },
+      {
+        "label": "Transport",
+        "color": "primary-1",
+        "desc": "Sailing Soon",
+        "url": "https://wa.me/6285160668800",
+        "button": "",
+        "action": "Sailing Soon"
+      },
+      {
+        "label": "Event",
+        "color": "primary-1",
+        "desc": "Sailing Soon",
+        "url": "https://wa.me/6285160668800",
+        "button": "",
+        "action": "Sailing Soon"
+      }
+    ]
+  },
+  "booking": {
+    "title": "Cara Booking",
+    "description": "Perusahaan yang selalu ada untuk mensupply kapanpun ada permintaan siapapun dan dimanapun melalui sektor maritim di Indonesia. Sebagaimana tercantum dalam logo kami dengan munculnya 5 garis putus-putus yang melingkari “PN” (Akronim dari “Penghubung Nusantara”) di tengah, Penghubung Nusantara selalu melayani klien dan mitra melalui 5 nilai yang tercantum di bawah ini.",
+    "cards": [
+      {
+        "label": "Login Dashboard",
+        "icon": "b-icon-box-arrow-in-right"
+      },
+      {
+        "label": "Pilih Dermaga",
+        "icon": "b-icon-geo-alt"
+      },
+      {
+        "label": "Pilih Tanggal",
+        "icon": "b-icon-calendar-week"
+      },
+      {
+        "label": "Pilih Tipe",
+        "icon": "b-icon-briefcase"
+      },
+      {
+        "label": "Pilih Kapal",
+        "icon": "b-icon-plus-circle"
+      },
+      {
+        "label": "Submit Pemesanan",
+        "icon": "b-icon-cloud-arrow-up"
+      },
+      {
+        "label": "Menunggu Konfirmasi",
+        "icon": "b-icon-bar-chart"
+      },
+      {
+        "label": "Mendapatkan konfirmasi",
+        "icon": "b-icon-chat-square-text"
+      }
+    ]
+  },
+  "teams": {
+    "title": "Team Kami",
+    "cards": [
+      {
+        "name": "Nama",
+        "job": "Palu Gada"
+      },
+      {
+        "name": "Nama",
+        "job": "Palu Gada"
+      },
+      {
+        "name": "Nama",
+        "job": "Palu Gada"
+      },
+      {
+        "name": "Nama",
+        "job": "Palu Gada"
+      },
+      {
+        "name": "Nama",
+        "job": "Palu Gada"
+      },
+      {
+        "name": "Nama",
+        "job": "Palu Gada"
+      },
+      {
+        "name": "Nama",
+        "job": "Palu Gada"
+      },
+      {
+        "name": "Nama",
+        "job": "Palu Gada"
+      },
+      {
+        "name": "Nama",
+        "job": "Palu Gada"
+      },
+      {
+        "name": "Nama",
+        "job": "Palu Gada"
+      },
+      {
+        "name": "Nama 2",
+        "job": "Palu Gada"
+      },
+      {
+        "name": "Nama 2",
+        "job": "Palu Gada"
+      },
+      {
+        "name": "Nama 2",
+        "job": "Palu Gada"
+      },
+      {
+        "name": "Nama 2",
+        "job": "Palu Gada"
+      },
+      {
+        "name": "Nama 2",
+        "job": "Palu Gada"
+      },
+      {
+        "name": "Nama 2",
+        "job": "Palu Gada"
+      },
+      {
+        "name": "Nama 2",
+        "job": "Palu Gada"
+      },
+      {
+        "name": "Nama 2",
+        "job": "Palu Gada"
+      },
+      {
+        "name": "Nama 2",
+        "job": "Palu Gada"
+      },
+      {
+        "name": "Nama 2",
+        "job": "Palu Gada"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Kontak Kami",
+    "cards": [
+      {
+        "label": "Alamat",
+        "description": "Jl. Bintaro Raya No. 8 C, Desa/Kelurahan Kebayoran Lama Utara, Kec. Kebayoran Lama, Kota Adm. Jakarta Selatan, Provinsi DKI Jakarta, Kode Pos: 12240"
+      },
+      {
+        "label": "Kontak",
+        "description": "+62 851 6066 8800"
+      },
+      {
+        "label": "Email",
+        "description": "mail@laboon.app"
+      }
+    ],
+    "action": {
+      "label": "Whatsapp",
+      "url": "https://wa.me/6285160668800"
+    },
+    "maps": "<iframe class=\"gmap_iframe\" height=\"400\" width=\"100%\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.0799170171044!2d106.77429251449355!3d-6.253200962965421!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f103f5278aa5%3A0x9661d8fe63a2458c!2sEnablerspace.id!5e0!3m2!1sid!2sid!4v1670262281373!5m2!1sid!2sid\"></iframe>"
+  }
+}

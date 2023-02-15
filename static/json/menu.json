@@ -1,0 +1,18 @@
+{
+  "header": {
+    "navigation": [
+      {
+        "label": "Home",
+        "url": "#home"
+      },
+      {
+        "label": "Fitur",
+        "url": "#feature"
+      },
+      {
+        "label": "Kontak",
+        "url": "#contact"
+      }
+    ]
+  }
+}
